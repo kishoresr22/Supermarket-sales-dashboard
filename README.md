@@ -13,6 +13,9 @@ I developed a comprehensive project in Power bi, creating multiple dashboards an
 - Quantity Sold by Product Line: Electronic Accessories (971 units) lead, followed by Food and Beverages (952 units) and others.
 - Filters: Users can analyse sales by City, Product Type, Customer Type (Member/Normal), and Gender (Male/Female) for deeper insights.
 
+## Dashboard Interaction
+- <a href="https://github.com/kishoresr22/Supermarket-sales-dashboard/blob/main/supermarket%20sales%20dashboard.pbix">Dashboard</a>
+
   
   
 
