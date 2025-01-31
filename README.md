@@ -16,6 +16,9 @@ I developed a comprehensive project in Power bi, creating multiple dashboards an
 ## Dashboard Interaction
 - <a href="https://github.com/kishoresr22/Supermarket-sales-dashboard/blob/main/supermarket%20sales%20dashboard.pbix">Dashboard</a>
 
+## Dashboard
+
+
   
   
 
