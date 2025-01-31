@@ -17,6 +17,7 @@ I developed a comprehensive project in Power bi, creating multiple dashboards an
 - <a href="https://github.com/kishoresr22/Supermarket-sales-dashboard/blob/main/supermarket%20sales%20dashboard.pbix">Dashboard</a>
 
 ## Dashboard
+![SM-dash image](https://github.com/user-attachments/assets/17a59d77-d6d4-42a8-affe-79e1385d6126)
 
 
   
